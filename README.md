@@ -25,10 +25,16 @@ Here are some ideas to get you started:
 
 - Learning 
 <p>
-  <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+  
+   <img width="6%" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /> 
+  <img width="6%" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /> 
+  <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
+  <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" /> <br>
+  <img width="15%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" />
+  <img width="6%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /> <br>
   <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
+  <img width="7%" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
   <!--
   <img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" />
