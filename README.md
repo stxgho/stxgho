@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 </div>
 
 <div align ="center">
-<h3> CyberSecurity Junior | Developer Game | Developer Web </h3> 
+<h3> Developer Web | Developer Game | CyberSecurity | Junior </h3> 
 </div>
 </br>
 
-- Learning CyberSecurity (Pentesting) & THM(TryHackMe)
+- Learning 
 <p>
-  <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-  <img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" />
+  <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
