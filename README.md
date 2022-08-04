@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1> Hello I'm yorkox </h1>
+  <h1> Hello I'm Ghostx </h1>
 </div>
 
 <div align ="center">
-<h3> CyberSecurity Junior | Red-Team/Pentester | HTB Player </h3> 
-      <h4>My Hack The Box Profile</h4>
-  <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/657043">
-<img src="ht_status.png" alt="Hack The Box Profile"></a>
+<h3> CyberSecurity Junior | Developer Game | Developer Web </h3> 
 </div>
 </br>
 
-- Learning CyberSecurity (Pentesting) On HTB(HackTheBox) & THM(TryHackMe)
+- Learning CyberSecurity (Pentesting) & THM(TryHackMe)
 <p>
   <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" />
