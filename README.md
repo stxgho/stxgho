@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1> Hello I'm Ghostx </h1>
+  <h1> Hello I'm Ghostx </h1> <img width="20%" src="https://avatars.githubusercontent.com/u/110248582?s=400&u=0bc553d21dad195b08ddb04c4b0fe7018ed86c2e&v=4" /> 
 </div>
 
 <div align ="center">
