@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Learning 
 <p>
   
-   <img width="6%" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />&nbsp;
+   <img width="6%" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="6%" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /> 
   <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" /> 
