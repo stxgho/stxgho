@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" /> 
   <img width="15%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" />
+  <img width="15%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-vertical.svg" />
   <img width="6%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /> 
   <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
   <img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" />
