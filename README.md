@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Un apasionado de la tecnología y siempre curioso, [ Tu nombre ] se dedica a explorar y aprender todo lo relacionado con el mundo de la informática, especializado en desarrollo web full stack y siempre buscando nuevos desafíos y oportunidades para mejorar sus habilidades. 🚀💻💡
+Un apasionado de la tecnología y siempre curioso, se dedica a explorar y aprender todo lo relacionado con el mundo de la informática, especializado en desarrollo web full stack y siempre buscando nuevos desafíos y oportunidades para mejorar sus habilidades. 🚀💻💡
 
 
 ## 🌐 Socials:
